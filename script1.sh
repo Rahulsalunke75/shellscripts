@@ -1,8 +1,6 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-25 and learning git/gihub"
 echo "We are learning devops"
-echo "We are learning today new topic of devops as braching"
-echo "GitHub Important topic for DevOps Engineer"
-echo "Github is very popular tools" 
 echo "Now doing practice with Linux terminal"
-
+echo "New changes are required to update"
+echo "Learning Git Branch "
