@@ -4,6 +4,7 @@ echo "We are learning devops"
 echo "We are learning Git"
 echo "We are added new repo in main branch"
 echo "Now we are crating new branch in it"
+echo  "After editing in branch"
 
 
 
